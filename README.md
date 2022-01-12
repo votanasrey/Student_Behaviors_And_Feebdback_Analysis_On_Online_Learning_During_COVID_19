@@ -1,0 +1,2 @@
+# Student-Behaviors-And-Feebdback-Analysis-On-Online-Learning-Durng-COVID-19
+After the COVID-19 outbreak, all sectors in Cambodia and The world met the issue. such as economics, Agricultural, tourism, education, and so on are met the problem either. for the education sector, a number of students are moved from physical classes to online classes instead. Online Learning System's now booming and essential for student during COVID-19 Pandemic. We will Research about Students’ Behavior and Feedback, Apply ML Algorithms to perform the project, Build Scientific Research Paper
